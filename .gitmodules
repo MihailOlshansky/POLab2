@@ -1,0 +1,3 @@
+[submodule "pg-schema"]
+	path = pg-schema
+	url = https://github.com/odr/pg-schema
